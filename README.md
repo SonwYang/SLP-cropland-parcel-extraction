@@ -1,6 +1,6 @@
 # Introduction
 
-This repo is the official implementation of our paper: SLP: cropland parcel extraction based on surface, line and point.  Our paper hasn't been accepted yet so we release the part of the code. The prediction process is shown in figure below.
+This repo is the official implementation of our paper: Extraction of cropland field parcels with High-Resolution Remote Sensing Images using multi-task learning. The prediction process is shown in figure below.
 
 - ![avatar](./images/flowchart.png)
 
