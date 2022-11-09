@@ -8,6 +8,10 @@ This repo is the official implementation of our paper: Extraction of cropland fi
 
 Google cloud: https://drive.google.com/drive/folders/1f1jZwUCS4892bkne7Ob1iWmcFhj8aDIZ?usp=sharing
 
+# Denmark datastet
+link：https://pan.baidu.com/s/1l9W0ekFdvyj8FhKA44CNuQ 
+pw：qazj 
+
 # How to use
 
 1. To obtain the cropland parcel(without using patch refinement)
