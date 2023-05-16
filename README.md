@@ -36,5 +36,4 @@ pw：qazj
    python postprocess.py --img ${image_path} --shp ${the_path_of_output_in_shapefile}
    ```
 
-PS: We will release the training code if our paper is accepted in the future.
 
