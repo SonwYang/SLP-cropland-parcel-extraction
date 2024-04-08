@@ -36,4 +36,8 @@ pw：qazj
    python postprocess.py --img ${image_path} --shp ${the_path_of_output_in_shapefile}
    ```
 
-
+# Training code
+The code works a bit cluttered and without comments, download it if you need.
+link：https://pan.baidu.com/s/1AKwMW9-0t8MA6LoEzgt6VA?pwd=kqau 
+pwd：kqau 
+ 
