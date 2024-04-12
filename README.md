@@ -1,6 +1,6 @@
 # Introduction
 
-This repo is the official implementation of our paper: Extraction of cropland field parcels with High-Resolution Remote Sensing Images using multi-task learning. The prediction process is shown in figure below.
+This repo is the official implementation of our paper: [Extraction of cropland field parcels with High-Resolution Remote Sensing Images using multi-task learning](https://www.tandfonline.com/doi/full/10.1080/22797254.2023.2181874). The prediction process is shown in figure below.
 
 - ![avatar](./images/flowchart.png)
 
