@@ -27,7 +27,7 @@ pw：qazj
    ```bash
    python PatchRefinement.py --lineDN ${lineDN_path} --img ${image_path} --weights ${weights_path}
    ```
-
+   PS:The training code can be found [here][https://github.com/carlesventura/iterative-deep-learning].
    
 
 3. In final, merge the results of the two steps.
